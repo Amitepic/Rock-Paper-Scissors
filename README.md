@@ -1,3 +1,3 @@
 # Rock-Paper-Scissors
 # HTML CSS JAVASCRIPT
-[Play Now](Rock-Paper-Scissors)
+[Play Now](https://amitepic.netlify.app/)
